@@ -3,11 +3,20 @@ header {
     color:yellow;
     text-align: center;
     max-width: 800pX;
-    margin: 0 auto;au
+    margin: 0 auto;
+    padding:16px;
+    border:5px solid green;
 }
+
 main{
-    background-color: aquamariine;
-    color;black;
-    max: width 800px; ;
-    margin:o auto:
+    background-color: aquamarine;
+    color:black;
+    max-width:800px ;
+    margin:0 auto;
+    padding: 16px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
 }
